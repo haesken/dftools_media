@@ -1,0 +1,14 @@
+{
+    "dwarffortress": {
+        "version": "0.34.11",
+        "depends": {
+            "none": "none"
+        }
+    },
+    "phoebus": {
+        "version": "0.34.11-00",
+        "depends": {
+            "dwarffortress": "0.34.11"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "version": "0.34.11",
+    "depends": {
+        "none": "none"
+    },
+    "platforms": {
+        "all": {
+            "sha": "blah",
+            "size": "1234"
+        }
+    },
+    "dfopt": {
+        "foo": "bar",
+        "herp": "derp"
+    }
+}

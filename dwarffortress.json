@@ -1,0 +1,20 @@
+{
+    "version": "0.34.11",
+    "depends": {
+        "none": "none"
+    },
+    "platforms": {
+        "linux": {
+            "sha": "blah",
+            "size": "1234"
+        },
+        "osx": {
+            "sha": "blah",
+            "size": "1234"
+        },
+        "windows": {
+            "sha": "blah",
+            "size": "1234"
+        }
+    }
+}
